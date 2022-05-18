@@ -1,4 +1,4 @@
-const targetedday = "2 July 2022";
+const targetedday = "2 aug 2022";
 
 
 const daysdiv = document.getElementById("days");
